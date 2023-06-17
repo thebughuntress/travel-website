@@ -2,6 +2,9 @@
 
 This is a React-based website for exploring and planning your next travel adventures.
 
+## Preview
+![preview](public/preview_1.JPG)
+
 ## Features
 
 - Browse and discover various travel destinations.
@@ -9,7 +12,6 @@ This is a React-based website for exploring and planning your next travel advent
 - Search for specific destinations based on location, activities, or keywords.
 - Plan and save favorite destinations to your personal itinerary.
 - User-friendly interface with intuitive navigation.
-
 
 ## Getting Started
 
