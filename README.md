@@ -2,9 +2,6 @@
 
 This is a React-based website for exploring and planning your next travel adventures.
 
-## Preview
-![preview](public/preview/preview_1.JPG)
-
 ## Features
 
 - Browse and discover various travel destinations.
@@ -22,3 +19,12 @@ This is a React-based website for exploring and planning your next travel advent
 3. **Run the development server**: Start the development server by running `npm run dev`. This will launch the application in your default browser.
 
 4. **Build for production**: When you're ready to build your project for production, run `npm run build`. This will create an optimized and minified version of your application in the dist directory.
+
+## Preview
+To give you a glimpse of this project, let's take a look at some screenshots showcasing its powerful features.
+### Screenshot 1: Landing Page (Navbar and Hero Section)
+![preview](public/preview/preview_1.JPG)
+### Screenshot 2: Travel Cards
+![preview](public/preview/preview_2.JPG)
+### Screenshot 3: Footer
+![preview](public/preview/preview_3.JPG)
