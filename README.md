@@ -11,7 +11,7 @@ It serves as a practical application of the concepts and techniques taught in [R
 
 ## Getting Started
 
-1. **Clone the repository**: Start by cloning this repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Start by cloning this repository to your local machine using the command `git clone https://github.com/thisisfrey/travel-website.git`.
 
 2. **Install dependencies**: Navigate to the project's root directory and run `npm install` to install the necessary dependencies.
 
