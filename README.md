@@ -1,14 +1,12 @@
 # Travel Website
 
-This is a personal project created with the purpose of learning React, a popular JavaScript library for building user interfaces. The project is a travel website for exploring and planning your next travel.
+This is a project created with the purpose of learning React, a popular JavaScript library for building user interfaces. The project is a travel website for exploring and planning your next travel.
 It serves as a practical application of the concepts and techniques taught in [React Website Tutorial - Beginner React JS Project Fully Responsive](https://youtu.be/I2UBjN5ER4s).
 
 ## Features
 
 - Browse and discover various travel destinations.
 - View detailed information about each destination, including descriptions and images.
-- Search for specific destinations based on location, activities, or keywords.
-- Plan and save favorite destinations to your personal itinerary.
 - User-friendly interface with intuitive navigation.
 
 ## Getting Started
