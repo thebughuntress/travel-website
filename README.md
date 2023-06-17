@@ -3,7 +3,7 @@
 This is a React-based website for exploring and planning your next travel adventures.
 
 ## Preview
-![preview](public/preview_1.JPG)
+![preview](public/preview/preview_1.JPG)
 
 ## Features
 
