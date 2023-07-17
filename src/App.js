@@ -10,13 +10,13 @@ import SignUp from './components/pages/SignUp'
 function App() {
   return (
     <React.Fragment>
-      <Router>
-        <Navbar/>
+      <Router basename="/travel-website">
+        <Navbar />
         <Routes>
-          <Route path="/" exact element={<Home/>}/>
-          <Route path="/services" exact element={<Services/>}/>
-          <Route path="/products" exact element={<Products/>}/>
-          <Route path="/signup" exact element={<SignUp/>}/>
+          <Route path="/" exact element={<Home />} />
+          <Route path="/services" exact element={<Services />} />
+          <Route path="/products" exact element={<Products />} />
+          <Route path="/signup" exact element={<SignUp />} />
         </Routes>
       </Router>
     </React.Fragment>
@@ -24,3 +24,5 @@ function App() {
 }
 
 export default App;
+
+
