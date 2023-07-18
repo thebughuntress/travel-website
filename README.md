@@ -19,18 +19,19 @@ It serves as a practical application of the concepts and techniques taught in [R
 
 4. **Build for production**: When you're ready to build your project for production, run `npm run build`. This will create an optimized and minified version of your application in the dist directory.
 
-## Preview
+## Demo
 
-To give you a glimpse of this project, let's take a look at some screenshots showcasing its powerful features.
+To give you a glimpse of this project, let's take a look at: 
 
-### Screenshot 1: Landing Page (Navbar and Hero Section)
+## Demo
+To give you a glimpse of this project, let's take a look at:  [https://thisisfrey.github.io/travel-website/](https://thisisfrey.github.io/travel-website/). Here, you will find the deployed version of the travel website, ready to be explored and tested.
 
-![preview](public/preview/preview_1.JPG)
+This project has been deployed using [GitHub Pages](https://create-react-app.dev/docs/deployment/).
 
-### Screenshot 2: Travel Cards
 
-![preview](public/preview/preview_2.JPG)
 
-### Screenshot 3: Footer
 
-![preview](public/preview/preview_3.JPG)
+
+
+
+
