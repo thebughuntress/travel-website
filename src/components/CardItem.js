@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function CardItem(props) {
   return (
     <react.Fragment>
-      <li className="card__item">
+      <li className="card__item" style="margin:5px">
         <Link className="cards__item__link" to={props.path}>
           <figure className="cards__item__pic-wrap" data-category={props.label}>
             <img src={props.src} alt="card img" className="cards__item__img" />
