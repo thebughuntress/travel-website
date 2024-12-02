@@ -4,7 +4,7 @@ This is a project created with the purpose of learning React, a popular JavaScri
 It serves as a practical application of the concepts and techniques taught in [React Website Tutorial - Beginner React JS Project Fully Responsive](https://youtu.be/I2UBjN5ER4s).
 
 ## Demo
-To give you a glimpse of this project, let's take a look at:  [https://thisisfrey.github.io/travel-website/](https://thisisfrey.github.io/travel-website/). Here, you will find the deployed version of the travel website, ready to be explored and tested.
+To give you a glimpse of this project, let's take a look at:  [https://thisisalicee.github.io/travel-website/](https://thisisalicee.github.io/travel-website/). Here, you will find the deployed version of the travel website, ready to be explored and tested.
 
 This project has been deployed using [GitHub Pages](https://create-react-app.dev/docs/deployment/).
 
